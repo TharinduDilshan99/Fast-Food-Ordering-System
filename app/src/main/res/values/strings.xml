@@ -1,0 +1,32 @@
+<resources>
+    <string name="Edit_order">Edit Order</string>
+    <string name="Product_name">Spicy Seafood</string>
+    <string name="amount">Rs: 850</string>
+    <string name="Select1">Select Crust</string>
+    <string name="Select2">Select Size</string>
+    <string name="Select3">Add Something Extra</string>
+    <string name="Add">Add to cart</string>
+
+    <string name="Cart">My Cart</string>
+    <string name="amount1">Rs: 1250</string>
+    <string name="Product_name1">Chicken Bacon</string>
+    <string name="Product_name2">Popcorn Veggie</string>
+    <string name="amount2">Rs: 1200</string>
+    <string name="Subtotal">Sub Total:   3300.00</string>
+    <string name="charge">Service Charge :  330.00</string>
+    <string name="net_total">Net Total :  3630.00</string>
+    <string name="ConOtdBtn">Continue Ordering</string>
+    <string name="CheckoutBtn">Checkout</string>
+
+    <string name="edit_order">Edit Order</string>
+    <string name="UpdateOrdBtn">Update Order</string>
+
+    <string name="feedback">Feedback</string>
+    <string name="your_name">Your Name</string>
+    <string name="rate">Rate Your Rider</string>
+    <string name="your_comment">Your Comment</string>
+    <string name="SendFeedbackBtn">Send Feedback</string>
+
+    <string name="Feedback_list">Feedback list</string>
+    <string name="other">Other Reviews</string>
+</resources>
